@@ -1,6 +1,8 @@
-## EXPERIMENT-01 ALP FOR 8086
-## Name :VASANTH P
-## Roll no:212222240113
+### EXPERIMENT-01 ALP FOR 8086
+```
+ Name : VASANTH P
+ Roll no: 212222240113
+```
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
